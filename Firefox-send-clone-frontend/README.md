@@ -1,3 +1,3 @@
 # Firefox Send Clone Client
 
-Frontend of a Firefox send clone made with ReactJS
+Frontend was made with NextJS, HTML and CSS
