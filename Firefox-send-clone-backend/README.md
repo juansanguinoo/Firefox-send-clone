@@ -1,3 +1,3 @@
 # Firefox Send Clone Server
 
-Backend of a Firefox send clone project made with ReactJS
+Backend was made with NodeJS, ExpressJS and MongoDB as database
